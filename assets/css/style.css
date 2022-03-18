@@ -21,3 +21,19 @@ body {
   font-weight: bold;
   padding: 3px;
 }
+
+
+/* Sub Footer */
+#sub_footer {
+  background-color: #355644;
+  color: #fff;
+  padding: 10px;
+}
+
+.portfolio_link {
+  color: #bba14f
+}
+
+.portfolio_link:hover {
+  color: #fff;
+}
