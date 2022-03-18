@@ -33,6 +33,14 @@ body {
   /* padding-top: 80px; */
 }
 
+#about_us_section {
+  height: 100vh;
+}
+
+#about_us_header {
+  margin-top: 10vh;
+}
+
 /* Main Footer */
 #main_footer {
   background-color: #bba14f;
