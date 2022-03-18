@@ -10,3 +10,14 @@ body {
   font-family: 'Quicksand', sans-serif;
   font-size: 16px;
 }
+
+/* Call Us Banner */
+#call_us_banner {
+  background-color: #355644
+}
+
+#call_us_text {
+  color: #fff;
+  font-weight: bold;
+  padding: 3px;
+}
