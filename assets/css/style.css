@@ -22,6 +22,17 @@ body {
   padding: 3px;
 }
 
+/* Main Footer */
+#main_footer {
+  background-color: #bba14f;
+  color: #fff;
+  padding: 10px;
+}
+
+.card_icon {
+  color: #fff;
+  font-size: 28px;
+}
 
 /* Sub Footer */
 #sub_footer {
@@ -31,7 +42,7 @@ body {
 }
 
 .portfolio_link {
-  color: #bba14f
+  color: #bba14f;
 }
 
 .portfolio_link:hover {
