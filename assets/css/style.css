@@ -33,6 +33,21 @@ body {
   /* padding-top: 80px; */
 }
 
+/* Back to top button */
+#btn-back-to-top {
+  position: fixed;
+  bottom: 14px;
+  right: 24px;
+  display: none;
+  z-index: 1;
+  background-color: #bba14f;
+}
+
+.fa-arrow-up:before {
+  color: #000;
+}
+
+/* About Us */
 #about_us_section {
   height: 100vh;
 }
